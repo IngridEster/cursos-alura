@@ -11,3 +11,5 @@ Usar banco de dados é essencial em praticamente todas as aplicações Node.js v
 
 nodejs com express - parte 4 (Segurança em APIs REST):
 Nesta parte, pra fechar com chave de ouro nossa formação, abordaremos um assunto de extrema importância: segurança em APIs REST. Aqui você aprenderá a como tornar a sua aplicação mais segura, utilizar JWTs e desenvolver um controle de acesso e autorização.
+4: Node.js e JWT - autenticação com tokens
+4.2: 
