@@ -9,7 +9,7 @@ Nesta parte da formação, você vai avançar no entendimento do funcionamento d
 nodejs com express - parte 3 (Acessando dados com ORM): 
 Usar banco de dados é essencial em praticamente todas as aplicações Node.js voltadas para a web. Iremos estudar agora sobre como trabalhar com BDs de forma extremamente produtiva utilizando mapeamento objeto-relacional (ou ORM, do inglês: Object-relational mapping) com o Sequelize ORM.
 
-nodejs com express - parte 4 (Segurança em APIs REST):
+nodejs com express - partes 4 (Segurança em APIs REST):
 Nesta parte, pra fechar com chave de ouro nossa formação, abordaremos um assunto de extrema importância: segurança em APIs REST. Aqui você aprenderá a como tornar a sua aplicação mais segura, utilizar JWTs e desenvolver um controle de acesso e autorização.
 4: Node.js e JWT - autenticação com tokens
-4.2: 
+4.2: NodeJS - Controle de acesso e autorização com RBAC
