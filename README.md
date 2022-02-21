@@ -13,3 +13,5 @@ nodejs com express - partes 4 (Segurança em APIs REST):
 Nesta parte, pra fechar com chave de ouro nossa formação, abordaremos um assunto de extrema importância: segurança em APIs REST. Aqui você aprenderá a como tornar a sua aplicação mais segura, utilizar JWTs e desenvolver um controle de acesso e autorização.
 4: Node.js e JWT - autenticação com tokens
 4.1: NodeJS - Controle de acesso e autorização com RBAC
+
+introdução javascript final - Curso de JS focado pra WEB.
